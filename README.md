@@ -62,5 +62,34 @@ This Readme is inspired by [this](https://www.youtube.com/watch?v=xb7AD9u1sNU&li
 
 ثم بداية الأسبوع المقبل تبدأ مرحلة جديدة وهكذا.
 
-# example
+## example
 ![project_delivery](./images/agile_9.png)
+
+## Agile values
+![agile_values](./images/agile_10.png)
+
+## Agile frameworks
+![agile_frameworks](./images/agile_11.png)
+most common frameworks:
+1. Scurm
+2. Kanban
+3. Lean
+4. XP (extreme programming)
+
+## Kanban
+عبارة عن مجموعة من الألواح بحيث ينتقل التاسك من سبورة إلى أخرى</br>
+يخدم موضوع الدعم الفني بعد تسليم المشروع.
+
+## Kanban vs Scrum
+![scrum_vs_kanba](./images/agile_12.png)
+
+## Agile Workflow
+![agile_workflow](./images/agile_13.png)
+
+## Automation
+![agile_automation](./images/agile_14.png)</br>
+يجب العودة إليه
+
+## Jira issue hierarchy
+![issue_hierarchy](./images/agile_15.png)
+
