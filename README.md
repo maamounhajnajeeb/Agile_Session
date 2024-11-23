@@ -1,5 +1,7 @@
 This Readme is inspired by [this](https://www.youtube.com/watch?v=xb7AD9u1sNU&list=WL&index=57) session (Arabic session) 
 
+* مرحلة أو دورة = sprint
+
 ## Agile main principles
 ![agile_1](./images/agile_1.png)</br>
 1. إرضاء العميل, إبقاؤه على إطلاع مع ذكر كافة المشاكل العرضية التي قد تحدث
@@ -54,10 +56,10 @@ This Readme is inspired by [this](https://www.youtube.com/watch?v=xb7AD9u1sNU&li
 ذات وقت قصير
 5. `sprint review`: هو عبارة عن demo مع العميل
 6. `sprint retrospectie`: feedback</br>
-ماهي الدروس المستفادة من هذه الsprint؟</br>
+ماهي الدروس المستفادة من هذه المرحلة؟</br>
 وماهي الأخطاء التي يجب عدم تكرارها؟</br>
-كل عضو من أعضاء الفريق يبدي رأيه بحوالي خمس دقائق ومن ثم نختم الsprint</br>
+كل عضو من أعضاء الفريق يبدي رأيه بحوالي خمس دقائق ومن ثم نختم المرحلة الحالية</br>
 
-ثم بداية الأسبوع المقبل تبدأ sprint جديدة وهكذا.
+ثم بداية الأسبوع المقبل تبدأ مرحلة جديدة وهكذا.
 
 ## 
