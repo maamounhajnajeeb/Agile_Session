@@ -37,8 +37,8 @@ This Readme is inspired by [this](https://www.youtube.com/watch?v=xb7AD9u1sNU&li
 
 ## Scurm artifacts
 ![scurm_artifacts](./images/agile_7.png)</br>
-- each feature is ~`user story`~
-- `user_story`: شرح عن الميزة ولها أسس للكتابة من بداية التطوير ثم الاختبار انتهاءاً التسليم
+- each feature is `~user story~`
+- `user_story`: شرح عن الميزة ولها أسس للكتابة من بداية التطوير ثم الاختبار انتهاءاً بالتسليم
 1. `product backlog`: كل الميزات التي أحتاجها لإنجاز هذا المشروع.</br>
 كل ميزة يجب أن تكون قابلة للقياس و محددة بوقت.</br>
 2. `sprint backloag`: دورة (مرحلة) من دورات تنفيذ المشروع, تقدر بأسبوعين إلى ثلاثة أسابيع
@@ -54,7 +54,8 @@ This Readme is inspired by [this](https://www.youtube.com/watch?v=xb7AD9u1sNU&li
 ذات وقت قصير
 5. `sprint review`: هو عبارة عن demo مع العميل
 6. `sprint retrospectie`: feedback</br>
-ماهي الدروس المستفادة من هذه الsprint وماهي الأخطاء التي يجب عدم تكرارها</br>
+ماهي الدروس المستفادة من هذه الsprint؟</br>
+وماهي الأخطاء التي يجب عدم تكرارها؟</br>
 كل عضو من أعضاء الفريق يبدي رأيه بحوالي خمس دقائق ومن ثم نختم الsprint</br>
 
 ثم بداية الأسبوع المقبل تبدأ sprint جديدة وهكذا.
